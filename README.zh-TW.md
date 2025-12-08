@@ -1,6 +1,10 @@
 <h1 align="center">Awesome Claude Skills</h1>
 
 <p align="center">
+  繁體中文 | <a href="README.md">English</a>
+</p>
+
+<p align="center">
 <a href="https://platform.composio.dev/?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills">
   <img width="1280" height="640" alt="Composio banner" src="https://github.com/user-attachments/assets/adb3f57a-2706-4329-856f-059a32059d48">
 </a>
