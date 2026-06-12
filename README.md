@@ -91,6 +91,7 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 - [Playwright Browser Automation](https://github.com/lackeyjb/playwright-skill) - 模型呼叫的 Playwright 自動化，用於測試和驗證 Web 應用程式。*By [@lackeyjb](https://github.com/lackeyjb)*
 - [prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering) - 教導知名的提示工程技術和模式，包括 Anthropic 最佳實踐和代理說服原則。
 - [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) - 使用 PICT（Pairwise Independent Combinatorial Testing）為需求或程式碼設計全面的測試案例，生成具有成對覆蓋率的優化測試套件。
+- [RunAPI CLI Skill](https://github.com/runapi-ai/cli-skill) - 讓 Claude Code、Codex、Gemini CLI、Cursor 等代理透過 RunAPI CLI 生成 AI 圖片、影片、音樂/音訊，並執行其他模型 API 任務。
 - [Skill Creator](./skill-creator/) - 提供建立有效 Claude Skills 的指導，透過專業知識、工作流程和工具整合來擴展能力。
 - [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - 在幾分鐘內自動將任何文件網站轉換為 Claude AI 技能。*By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
 - [software-architecture](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/ddd/skills/software-architecture) - 實作設計模式，包括 Clean Architecture、SOLID 原則和全面的軟體設計最佳實踐。
