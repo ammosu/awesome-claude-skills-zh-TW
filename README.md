@@ -111,6 +111,7 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - 生成創意網域名稱構想，並檢查多個頂級網域（包括 .com、.io、.dev 和 .ai 擴充名）的可用性。
 - [Internal Comms](./internal-comms/) - 協助撰寫內部溝通，包括 3P 更新、公司通訊、FAQ、狀態報告和專案更新，使用公司特定格式。
 - [Lead Research Assistant](./lead-research-assistant/) - 透過分析您的產品、搜尋目標公司並提供可行的外展策略來識別和評估高品質潛在客戶。
+- [NotFair](https://github.com/nowork-studio/NotFair) - 用於 SEO、GEO、Google Ads 和 Meta Ads 的開源 Claude Code 技能套件，透過 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 連接即時資料。*By [@nowork-studio](https://github.com/nowork-studio)*
 
 ### 溝通與寫作
 
