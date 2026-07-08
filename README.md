@@ -96,6 +96,7 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 - [software-architecture](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/ddd/skills/software-architecture) - 實作設計模式，包括 Clean Architecture、SOLID 原則和全面的軟體設計最佳實踐。
 - [subagent-driven-development](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd/skills/subagent-driven-development) - 為個別任務調度獨立的子代理，在迭代之間設置程式碼審查檢查點，實現快速、受控的開發。
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - 在實作任何功能或錯誤修復時使用，在編寫實作程式碼之前。
+- [Tree Ring Memory](https://github.com/TerminallyLazy/tree-ring-memory-skill) - 本地優先的 agent 記憶生命週期技能，協助 Claude 進行專案記憶召回、證據記錄、審計、遺忘與合併。*By [@TerminallyLazy](https://github.com/TerminallyLazy)*
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - 建立隔離的 git worktree，具有智慧目錄選擇和安全驗證。
 - [Webapp Testing](./webapp-testing/) - 使用 Playwright 測試本地 Web 應用程式，用於驗證前端功能、除錯 UI 行為和擷取螢幕截圖。
 
