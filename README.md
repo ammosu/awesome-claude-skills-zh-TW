@@ -112,6 +112,7 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 - [Internal Comms](./internal-comms/) - 協助撰寫內部溝通，包括 3P 更新、公司通訊、FAQ、狀態報告和專案更新，使用公司特定格式。
 - [Lead Research Assistant](./lead-research-assistant/) - 透過分析您的產品、搜尋目標公司並提供可行的外展策略來識別和評估高品質潛在客戶。
 
+- [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. *By [@Linked-API](https://github.com/Linked-API)*
 ### 溝通與寫作
 
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - 從網頁中提取完整的文章文字和中繼資料。
