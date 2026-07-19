@@ -103,6 +103,7 @@ Claude Skills are customizable workflows that teach Claude how to perform specif
 
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger.
+- [x-twitter-scraper](./x-twitter-scraper/) - Structured X/Twitter data workflows for AI agents, including post search, profile context, engagement research, giveaways, and trend analysis. *By [@Xquik-dev](https://github.com/Xquik-dev)*
 
 ### Business & Marketing
 
@@ -163,15 +164,15 @@ Claude Skills are customizable workflows that teach Claude how to perform specif
 
 ### Using Skills in Claude Code
 
-1. Place the skill in `~/.config/claude-code/skills/`:
+1. Place the skill in `~/.claude/skills/`:
    ```bash
-   mkdir -p ~/.config/claude-code/skills/
-   cp -r skill-name ~/.config/claude-code/skills/
+   mkdir -p ~/.claude/skills/
+   cp -r skill-name ~/.claude/skills/
    ```
 
 2. Verify skill metadata:
    ```bash
-   head ~/.config/claude-code/skills/skill-name/SKILL.md
+   head ~/.claude/skills/skill-name/SKILL.md
    ```
 
 3. Start Claude Code:
