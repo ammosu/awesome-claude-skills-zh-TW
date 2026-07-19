@@ -103,6 +103,7 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - 自動分析 CSV 檔案並生成包含視覺化的綜合見解，無需使用者提示。*By [@coffeefuelbump](https://github.com/coffeefuelbump)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - 當錯誤在執行深處發生時使用，您需要追溯尋找原始觸發器。
+- [x-twitter-scraper](./x-twitter-scraper/) - 為 AI 代理提供結構化 X/Twitter 資料工作流程，包含貼文搜尋、個人檔案脈絡、互動研究、抽獎和趨勢分析。*By [@Xquik-dev](https://github.com/Xquik-dev)*
 
 ### 商業與行銷
 
@@ -163,15 +164,15 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 
 ### 在 Claude Code 中使用技能
 
-1. 將技能放置在 `~/.config/claude-code/skills/`：
+1. 將技能放置在 `~/.claude/skills/`：
    ```bash
-   mkdir -p ~/.config/claude-code/skills/
-   cp -r skill-name ~/.config/claude-code/skills/
+   mkdir -p ~/.claude/skills/
+   cp -r skill-name ~/.claude/skills/
    ```
 
 2. 驗證技能中繼資料：
    ```bash
-   head ~/.config/claude-code/skills/skill-name/SKILL.md
+   head ~/.claude/skills/skill-name/SKILL.md
    ```
 
 3. 啟動 Claude Code：
