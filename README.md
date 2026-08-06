@@ -76,6 +76,7 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 - [xlsx](https://github.com/anthropics/skills/tree/main/document-skills/xlsx) - 試算表操作：公式、圖表、資料轉換。
 - [Markdown to EPUB Converter](https://github.com/smerchek/claude-epub-skill) - 將 Markdown 文件和聊天摘要轉換為專業的 EPUB 電子書檔案。*By [@smerchek](https://github.com/smerchek)*
 
+- [Mubu (幕布) Integration](https://github.com/liuboacean/mubu-integration) - 幕布大綱 CLI 與 AI Agent Skill：Markdown 雙向同步（往返保真），並支援 OPML/FreeMind 匯出。*By [@liuboacean](https://github.com/liuboacean)*  
 ### 開發與程式工具
 
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/web-artifacts-builder) - 用於建立精緻、多組件 claude.ai HTML artifacts 的工具套件，使用現代前端網頁技術（React、Tailwind CSS、shadcn/ui）。
