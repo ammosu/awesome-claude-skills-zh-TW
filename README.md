@@ -64,6 +64,7 @@
 
 ## 什麼是 Claude Skills？
 
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的獨特需求執行特定任務。Skills 使 Claude 能夠在所有 Claude 平台上以可重複、標準化的方式執行任務。
 
 ## 技能清單
