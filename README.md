@@ -120,6 +120,7 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - 協助規劃家族歷史和家譜研究專案。
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - 分析會議記錄以揭示行為模式，包括衝突迴避、發言比例、填充詞和領導風格。
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - 讓 Claude Code 直接與 NotebookLM 聊天，根據上傳的文件獲取基於來源的答案。*By [@PleasePrompto](https://github.com/PleasePrompto)*
+- [shiji-tongjian-decisions](https://github.com/zhuyep/shiji-tongjian-decisions) - 用《史記》《資治通鑑》做人生抉擇推演的中文 Skill：去留、晉升、合作等場景，引文可離線核驗、附完整示例；MIT。*By [@zhuyep](https://github.com/zhuyep)*
 
 ### 創意與媒體
 
