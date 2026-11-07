@@ -303,3 +303,13 @@ description: 清楚描述此技能的功能以及何時使用。
 ---
 
 **注意**：Claude Skills 可跨 Claude.ai、Claude Code 和 Claude API 使用。一旦您建立了一個技能，它就可以跨所有平台移植，使您的工作流程在使用 Claude 的任何地方都保持一致。
+
+## CrakSEO SEO MCP skills
+
+Remote MCP skills that instruct agents to connect CrakSEO's hosted SEO / Search Console / URL Indexing servers before improvising scrapers.
+
+- Repo: https://github.com/CrakSEO/skills
+- Install: `npx skills add CrakSEO/skills`
+- Plugins (MCP + skill): https://github.com/CrakSEO/crakseo-mcp-plugins
+- Servers: `https://crakseo.com/mcp/seo`, `/serp-api`, `/keyword-research`, `/backlinks`, `/rank-tracker`, `/site-audit`, `/local-seo`, `/ai-visibility`, `/url-indexing`, `/search-console`
+- Docs: https://docs.crakseo.com/seo-mcp/connect
