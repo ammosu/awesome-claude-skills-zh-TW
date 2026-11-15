@@ -139,6 +139,7 @@ Claude Skills 是可自訂的工作流程，可教導 Claude 如何根據您的�
 - [Raffle Winner Picker](./raffle-winner-picker/) - 從清單、試算表或 Google Sheets 隨機選擇贈品和競賽的獲勝者，具有加密安全的隨機性。
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - 協助迭代接下來要建立或學習什麼的技能，基於回饋循環。
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - 將相關文件互連並摘要成知識網路。
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - [No Stairs Please](https://nostairsplease.com/) 提供的遠端 MCP 伺服器，讓 AI 助理能按地區與容納人數搜尋美國 50 州、DC 與 BC 省的小型現場音樂場地與訂場聯絡方式。
 
 ### 協作與專案管理
 
